@@ -21,7 +21,8 @@ Hints: For the slices you create, you should be able to justify why you want to 
 
 ## Installation instructions
 - python 3.10 version is needed for the zeno packages to run correctly
-- pip install zenoml datasets transformers tqdm
+- You can run the command `python -m venv mlip-lab4` in the terminal to create a new virtual environment (optional).
+- pip install zenoml datasets transformers tqdm torch
 
 ## Code related details
 - Finish all 7 steps mentioned in the python notebook
